@@ -356,7 +356,18 @@ body {
     text-decoration: none;
 }
 
-.socials {
+.social-icons {
     background-color: #F6F5F5;
+    padding-left: 600px;
+    padding-bottom: 20px;
+}
 
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 40px;
+    height: auto;
 }
